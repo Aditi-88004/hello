@@ -1,2 +1,2 @@
-# hello
-This is my learning repo
+Hey I'm Aditi Goyal.
+This is my learning repo.
